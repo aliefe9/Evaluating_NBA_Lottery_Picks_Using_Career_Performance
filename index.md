@@ -3,7 +3,7 @@
 **Group Members:**  
 Ali Efe Isik, Djordje Lazarevic  
    
-[**Colab Worksheet**](https://colab.research.google.com/drive/14x_u8Rq2tyd0u9tIcdGUx3M7nh8s-HWp?usp=sharing)
+**Colab Worksheet**
 
 **Introduction**  
 &emsp;&emsp;&emsp;This project looks into the career success of NBA players who were selected in the first 10 places in the NBA draft. We used a dataset from kaggle that contains detailed statistics from multiple NBA seasons, and our research question is: “How successful have first 10 draft picks been, and which teams made the most draft mistakes?”  
