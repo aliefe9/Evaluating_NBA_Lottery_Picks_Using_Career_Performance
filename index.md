@@ -5,8 +5,8 @@ nba project summary
 
 <iframe
   src="player_performance_kmeans.html"
-  width="100%"
-  height="500"
+  width="100"
+  height="600"
   style="border:none;"
 >
   <p>Your browser does not support iframes.</p>
