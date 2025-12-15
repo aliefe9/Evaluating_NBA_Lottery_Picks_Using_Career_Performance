@@ -35,7 +35,7 @@ Pink: High Performers
 
 <iframe
   src="player_performance_kmeans.html"
-  width="130%"
+  width="100%"
   height="600"
   style="border:none;"
 >
@@ -50,7 +50,7 @@ Pink: High Performers
 
 <iframe
   src="underperforming_lottery_picks.html"
-  width="130%"
+  width="100%"
   height="600"
   style="border:none;"
 >
