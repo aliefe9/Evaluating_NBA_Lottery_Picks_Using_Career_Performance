@@ -7,12 +7,12 @@ Ali Efe Isik, Djordje Lazarevic
 
 **Introduction**  
 &emsp;&emsp;&emsp;This project looks into the career success of NBA players who were selected in the first 10 picks in the NBA draft. We used a dataset from Kaggle that contains detailed statistics from multiple NBA seasons, and our research question is: “How successful have first 10 draft picks been, and which teams made the most draft mistakes?”  
-&emsp;&emsp;&emsp;We evaluated player performance using the Performance Index Rating(PIR), a generally used efficiency metric in the basketball world outside the NBA, that incorporates all positive statistical contributions and subtracts negative contributions. As it summarizes on-court impact in a single number, it is a good comparison number between players. We learned about PIR from Euroleague which adapted this statistic, originally introduced by the Spanish ACB league in early 1990s [(Player Index Rating)](https://en.wikipedia.org/wiki/Performance_index_rating).  
-&emsp;&emsp;&emsp;The goal of the analysis is to compare PIR between players and identify which players underperformed or outperformed in their careers and answer following questions: 
+&emsp;&emsp;&emsp;We evaluated player performance using the Performance Index Rating (PIR), a generally used efficiency metric in the basketball world outside the NBA. The PIR incorporates all positive statistical contributions and subtracts negative contributions. As it summarizes on-court impact in a single number, it is a good comparison number between players. We learned about PIR from Euroleague which adapted this statistic, originally introduced by the Spanish ACB league in early 1990s [(Player Index Rating)](https://en.wikipedia.org/wiki/Performance_index_rating).  
+&emsp;&emsp;&emsp;The goal of the analysis is to compare PIR between players and identify which players underperformed or overperformed in their careers and answer following questions: 
 
 * How successful have the top 10 lottery pick players been compared with each other?  
-* Which NBA team has drafted the most underperforming players?   
-* Which NBA team has drafted the least underperforming players?  
+* Which NBA team has drafted the most amount of underperforming players?   
+* Which NBA team has drafted the least amount of underperforming players?  
 * Does playing time correlate with player performance? 
 
 &emsp;&emsp;&emsp;Our approach involved data cleaning, calculating PIR from box-score data, aggregating statistics to the player level, and using k-means clustering and visualizations to categorize players into performance tiers  
