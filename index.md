@@ -5,7 +5,7 @@ nba project summary
 
 <iframe
   src="player_performance_kmeans.html"
-  width="100"
+  width="110%"
   height="600"
   style="border:none;"
 >
@@ -17,7 +17,7 @@ nba project summary
 
 <iframe
   src="underperforming_lottery_picks.html"
-  width="100%"
+  width="110%"
   height="600"
   style="border:none;"
 >
