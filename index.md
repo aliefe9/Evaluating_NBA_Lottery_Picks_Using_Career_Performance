@@ -6,7 +6,7 @@ nba project summary
 <iframe
   src="player_performance_kmeans.html"
   width="100%"
-  height="700"
+  height="500"
   style="border:none;"
 >
   <p>Your browser does not support iframes.</p>
@@ -18,7 +18,7 @@ nba project summary
 <iframe
   src="underperforming_lottery_picks.html"
   width="100%"
-  height="700"
+  height="600"
   style="border:none;"
 >
   <p>Your browser does not support iframes.</p>
